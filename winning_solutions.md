@@ -132,8 +132,7 @@
  
 * ##### [Global Energy Forecasting Competition 2012 – Wind Forecasting](http://www.kaggle.com/c/GEF2012-wind-forecasting/)
 
-* ##### [Rank 1 solutionby Leustagos.](https://github.com/lucaseustaquio/gefcom-2012-wind-track)
-Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/forums/t/3033/methods-used-and-preconditioning-of-data)
+    * ##### [Rank 1 solutionby Leustagos.](https://github.com/lucaseustaquio/gefcom-2012-wind-track) Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/forums/t/3033/methods-used-and-preconditioning-of-data)
  
 * ##### [KDD Cup 2013 – Author-Paper Identification Challenge (Track 1)](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge)
 
@@ -189,7 +188,7 @@ Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/fo
  
 * ##### [Observing the Dark World](http://www.kaggle.com/c/DarkWorlds)
 
-    * ###### [Rank 2 solutionby Iain Murray, code available http://homepages.inf.ed.ac.uk/imurray2/pub/12kaggle_dark/dw_murray_code-1.0.tar.gz here](http://homepages.inf.ed.ac.uk/imurray2/pub/12kaggle_dark/)
+    * ###### [Rank 2 solutionby Iain Murray, code available](http://homepages.inf.ed.ac.uk/imurray2/pub/12kaggle_dark/dw_murray_code-1.0.tar.gz) [here](http://homepages.inf.ed.ac.uk/imurray2/pub/12kaggle_dark/)
  
 * ##### [PAKDD 2014 – ASUS Malfunctional Components Prediction](http://www.kaggle.com/c/pakdd-cup-2014)
 
