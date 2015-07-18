@@ -8,51 +8,51 @@
  
 * ##### [Allstate Purchase Prediction Challenge](http://www.kaggle.com/c/allstate-purchase-prediction-challenge)
 
-    * ###### [Rank 2 solution codenbsp;by Alessandro Mariani.](https://github.com/alzmcr/allstate)
+    * ###### [Rank 2 solution Alessandro Mariani.](https://github.com/alzmcr/allstate)
 
-    * ###### [Rank 10 solution codenbsp;by B1aine.](https://github.com/B1aine/kaggle-allstate)
+    * ###### [Rank 10 solution B1aine.](https://github.com/B1aine/kaggle-allstate)
 
-    * ###### [Rank 36 solution codspan style="text-decoration: underline; e</span>&nbsp;by Hiroyuki.](http://www.kaggle.com/c/allstate-purchase-prediction-challenge/forums/t/8218/solution-sharing/44905#post44905)
+    * ###### [Rank 36 solution by Hiroyuki.](http://www.kaggle.com/c/allstate-purchase-prediction-challenge/forums/t/8218/solution-sharing/44905#post44905)
 
-    * ###### [Rank 159 solution codenbsp;by MrCanard.](https://github.com/mrcanard/AllStateKaggle/tree/winningentry)
+    * ###### [Rank 159 solution code by MrCanard.](https://github.com/mrcanard/AllStateKaggle/tree/winningentry)
 
     * ###### [Solution thread](http://www.kaggle.com/c/allstate-purchase-prediction-challenge/forums/t/8218/solution-sharing)
  
 * ##### [Amazon.com – Employee Access Challenge](http://www.kaggle.com/c/amazon-employee-access-challenge)
 
-    * ###### [Rank 1 solution codenbsp;by&nbsp;Paul Duan and Benjamin Solecki team.](https://github.com/pyduan/amazonaccess)
+    * ###### [Rank 1 solution code by Paul Duan and Benjamin Solecki team.](https://github.com/pyduan/amazonaccess)
 
-    * ###### [Rank 1 solution Q&amp;Anbsp;by Paul Duan.](http://blog.kaggle.com/2013/08/29/qa-with-amazon-access-challenge-first-prize-winner-paul-duan)
+    * ###### [Rank 1 solution Q&A by Paul Duan.](http://blog.kaggle.com/2013/08/29/qa-with-amazon-access-challenge-first-prize-winner-paul-duan)
 
-    * ###### [Rank 2 solution codenbsp;by Owen Zhang.](https://github.com/owenzhang/Kaggle-AmazonChallenge2013)
+    * ###### [Rank 2 solution code by Owen Zhang.](https://github.com/owenzhang/Kaggle-AmazonChallenge2013)
 
-    * ###### [Rank 3 solution codenbsp;by Dmitry &amp; Leustagos.](https://github.com/diefimov/amazon_employee_access_2013)
+    * ###### [Rank 3 solution code by Dmitry & Leustagos.](https://github.com/diefimov/amazon_employee_access_2013)
 
-    * ###### [Rank 289 solution codenbsp;by Foxtrot with original blog post http://www.fastml.com/amazon-aspires-to-automate-access-control here](https://github.com/zygmuntz/kaggle-amazon)
+    * ###### [Rank 289 solution code by Foxtrot with original blog post http://www.fastml.com/amazon-aspires-to-automate-access-control here](https://github.com/zygmuntz/kaggle-amazon)
 
     * ###### [Solution thread](http://www.kaggle.com/c/amazon-employee-access-challenge/forums/t/5283/winning-solution-code-and-methodology)
  
 * ##### [AMS 2013-2014 Solar Energy Prediction Contest](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/)
 
-    * ###### [Rank 1 solution codeand http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/33783#post33783 descriptionby Leustagos team.](https://github.com/lucaseustaquio/ams-2013-2014-solar-energy)
+    * ###### [Rank 1 solution code](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/33783#post33783) [description by Leustagos team.](https://github.com/lucaseustaquio/ams-2013-2014-solar-energy)
 
-    * ###### [Rank 2 solution codeand http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/33802#post33802 descriptionby Toulouse.](https://github.com/blazorth/AMS-2013-2014-Solar-Energy-Prediction-Contest)
+    * ###### [Rank 2 solution code](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/33802#post33802) [description by Toulouse.](https://github.com/blazorth/AMS-2013-2014-Solar-Energy-Prediction-Contest)
 
-    * ###### [Rank 3 solution codeand http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/33785#post33785 descriptionby Owen Zhang.](https://github.com/owenzhang/kaggle_AMS_2013_14_solar)
+    * ###### [Rank 3 solution code](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/33785#post33785) [description by Owen Zhang.](https://github.com/owenzhang/kaggle_AMS_2013_14_solar)
 
-    * ###### [Rank 4 solution escriptionby Peter Prettenhofer.](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/34790#post34790)
+    * ###### [Rank 4 solution description by Peter Prettenhofer.](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/34790#post34790)
 
-    * ###### [Rank 5 solution descriptionby Domcastro.](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/34820#post34820)
+    * ###### [Rank 5 solution description by Domcastro.](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach/34820#post34820)
 
-    * ###### [Rank 58 solution codeand http://162.243.70.40/welcome-to-ghost/ descriptionby Davit.](https://github.com/davit-gh/Solar-Energy-Prediction-Contest)
+    * ###### [Rank 58 solution code description by Davit.](https://github.com/davit-gh/Solar-Energy-Prediction-Contest)
 
     * ###### [Solution thread here](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/6321/our-approach)
 
-    * ###### [Ridge Regression starter codewith MAE about 2.2M by Alec Radford, original thread http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/5282/beating-the-benchmark-in-python-2230k-mae/28098#post28098 here](http://www.kaggle.com/files/8744/starter_code.py)
+    * ###### [Ridge Regression starter code with MAE about 2.2M by Alec Radford](http://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/forums/t/5282/beating-the-benchmark-in-python-2230k-mae/28098#post28098) [Original thread here.](http://www.kaggle.com/files/8744/starter_code.py)
 
     * ###### [Improved starter codeby Foxtrot.](https://github.com/zygmuntz/kaggle-solar)
 
-    * ###### [Baseline codewith MAE about 2.6M using&nbsp;Catmull-Rom Spline interpolation, also available in R https://gist.github.com/dickoa/6078487 hereand https://github.com/jlburkhead/solar/tree/master/R here](https://github.com/djgagne/solar_energy_prediction_contest)
+    * ###### [Baseline code with MAE about 2.6M using Catmull-Rom Spline interpolation.](https://github.com/djgagne/solar_energy_prediction_contest) [Also available in R](https://gist.github.com/dickoa/6078487) [And here](https://github.com/jlburkhead/solar/tree/master/R)
 
 * ##### [Belkin Energy Disaggregation Competition](http://www.kaggle.com/c/belkin-energy-disaggregation-competition)
 
@@ -80,11 +80,11 @@
  
 * ##### [Detecting Insults in Social Commentary](http://www.kaggle.com/c/detecting-insults-in-social-commentary)
 
-    * ###### [Rank 1 solution descriptionnbsp;and http://www.kaggle.com/c/detecting-insults-in-social-commentary/forums/t/2744/what-did-you-use/15951#post15951 codeby Vivek Sharma.](http://www.kaggle.com/c/detecting-insults-in-social-commentary/forums/t/2744/what-did-you-use/14755#post14755)
+    * ###### [Rank 1 solution description and http://www.kaggle.com/c/detecting-insults-in-social-commentary/forums/t/2744/what-did-you-use/15951#post15951 codeby Vivek Sharma.](http://www.kaggle.com/c/detecting-insults-in-social-commentary/forums/t/2744/what-did-you-use/14755#post14755)
 
     * ###### [Rank 2 solutionby tuzzeg.](https://github.com/tuzzeg/detect_insults)
 
-    * ###### [Rank 3 solution descriptionnbsp;Andrei Olariu.](http://webmining.olariu.org/my-first-kaggle-competition-and-how-i-ranked/)
+    * ###### [Rank 3 solution description Andrei Olariu.](http://webmining.olariu.org/my-first-kaggle-competition-and-how-i-ranked/)
 
     * ###### [Rank 4 solutionby Chris Brew.](https://github.com/cbrew/Insults)
 
@@ -100,15 +100,15 @@
 
     * ###### [Rank 4 solution descriptionby Steffen Rindle.](http://www.kaggle.com/c/MusicHackathon/forums/t/2242/code-approach-sharing/12821#post12821)
 
-    * ###### [Rank 18 solution code and descriptionnbsp;by Vlad Gusev.](http://www.kaggle.com/c/MusicHackathon/forums/t/2242/code-approach-sharing/12619#post12619)
+    * ###### [Rank 18 solution code and description by Vlad Gusev.](http://www.kaggle.com/c/MusicHackathon/forums/t/2242/code-approach-sharing/12619#post12619)
 
-    * ###### [Rank 34 solution codenbsp;and http://www.kaggle.com/c/MusicHackathon/forums/t/2242/code-approach-sharing/12622#post12622 descriptionby zenog.](https://github.com/zenogantner/MyMediaLite)
+    * ###### [Rank 34 solution code and http://www.kaggle.com/c/MusicHackathon/forums/t/2242/code-approach-sharing/12622#post12622 descriptionby zenog.](https://github.com/zenogantner/MyMediaLite)
 
     * ###### [Solution thread](http://www.kaggle.com/c/MusicHackathon/forums/t/2242/code-approach-sharing)
  
 * ##### [Galaxy Zoo – The Galaxy Challenge](http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge)
 
-    * ###### [Rank 1 solution codeand&nbsp;http://benanne.github.io/2014/04/05/galaxy-zoo.html descriptionby Sander Dieleman.](https://github.com/benanne/kaggle-galaxies)
+    * ###### [Rank 1 solution codeand http://benanne.github.io/2014/04/05/galaxy-zoo.html descriptionby Sander Dieleman.](https://github.com/benanne/kaggle-galaxies)
 
     * ###### [Rank 2 solution codeand http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41505#post41505 descriptionby Maxim Milakov.](https://github.com/milakov/nnForge/tree/master/examples/galaxy_zoo)
 
@@ -116,13 +116,13 @@
 
     * ###### [Rank 5 solution code and descriptionby Julian de Wit.](http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41549#post41549)
 
-    * ###### [Rank 9 solution codenbsp;and http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41523#post41523 descriptionnbsp;by Soumith Chintala.](https://github.com/soumith/galaxyzoo)
+    * ###### [Rank 9 solution code and http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41523#post41523 description by Soumith Chintala.](https://github.com/soumith/galaxyzoo)
 
-    * ###### [Rank 13 solution codenbsp;and http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41547#post41547 descriptionnbsp;by Xiaoxiang Zhang.](https://github.com/zhangxiangxiao/GalaxyZoo)
+    * ###### [Rank 13 solution code and http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41547#post41547 description by Xiaoxiang Zhang.](https://github.com/zhangxiangxiao/GalaxyZoo)
 
     * ###### [Rank 28 solution code and descriptionby utdiscant.](http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41550#post41550)
 
-    * ###### [Rank 38 solution code and descriptionnbsp;by sugi.](http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41569#post41569)
+    * ###### [Rank 38 solution code and description by sugi.](http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41569#post41569)
 
     * ###### [Rank 57 solution code and descriptionby hxu.](http://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/forums/t/7599/so-what-were-your-approaches/41605#post41605)
 
@@ -137,7 +137,7 @@ Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/fo
  
 * ##### [KDD Cup 2013 – Author-Paper Identification Challenge (Track 1)](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge)
 
-    * ###### [Rank 1 solution with code and descriptionnbsp;by Team Algorithm, Github link to code https://github.com/kdd-cup-2013-ntu/track1 here](http://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/forums/t/5369/team-algorithm-s-papers-and-slides)
+    * ###### [Rank 1 solution with code and description by Team Algorithm, Github link to code https://github.com/kdd-cup-2013-ntu/track1 here](http://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge/forums/t/5369/team-algorithm-s-papers-and-slides)
  
 * ##### [KDD Cup 2013 – Author Disambiguation Challenge (Track 2)](http://www.kaggle.com/c/kdd-cup-2013-author-disambiguation)
 
@@ -175,11 +175,11 @@ Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/fo
 
 * ##### [Preprocessing techniques discussion thread](http://www.kaggle.com/c/MerckActivity/forums/t/2900/what-do-you-use-to-preprocess-the-data)
  
-* ##### [MLSP 2013 Bird Classification&nbsp;Challenge](http://www.kaggle.com/c/mlsp-2013-birds)
+* ##### [MLSP 2013 Bird Classification Challenge](http://www.kaggle.com/c/mlsp-2013-birds)
 
-    * ###### [Rank 1 solution codeand&nbsp;http://www.kaggle.com/c/mlsp-2013-birds/forums/t/5457/congratulations-to-the-winners/29159#post29159 descriptionby beluga.](https://github.com/gaborfodor/MLSP_2013)
+    * ###### [Rank 1 solution codeand http://www.kaggle.com/c/mlsp-2013-birds/forums/t/5457/congratulations-to-the-winners/29159#post29159 descriptionby beluga.](https://github.com/gaborfodor/MLSP_2013)
 
-    * ###### [Rank 2 solution codeand&nbsp;http://www.kaggle.com/c/mlsp-2013-birds/forums/t/5457/congratulations-to-the-winners/29017#post29017 descriptionby Herbal Candy (W and thomeou).](https://203.126.100.115/kaggle_submission_PS.rar)
+    * ###### [Rank 2 solution codeand http://www.kaggle.com/c/mlsp-2013-birds/forums/t/5457/congratulations-to-the-winners/29017#post29017 descriptionby Herbal Candy (W and thomeou).](https://203.126.100.115/kaggle_submission_PS.rar)
 
     * ###### [Rank 3 solution descriptionby Anil Thomas.](http://www.kaggle.com/c/mlsp-2013-birds/forums/t/5457/congratulations-to-the-winners/29101#post29101)
 
@@ -199,7 +199,7 @@ Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/fo
  
 * ##### [Personalize Expedia Hotel Searches – ICDM 2013](http://www.kaggle.com/c/expedia-personalized-sort)
 
-* ##### [Presentation paper/slidesnbsp;for ICDM 2013.](http://www.kaggle.com/c/expedia-personalized-sort/forums/t/6203/winning-algorithm)
+* ##### [Presentation paper/slides for ICDM 2013.](http://www.kaggle.com/c/expedia-personalized-sort/forums/t/6203/winning-algorithm)
 
 * ##### [Solution thread](http://www.kaggle.com/c/expedia-personalized-sort/forums/t/6203/winning-algorithm)
  
@@ -207,11 +207,11 @@ Solution thread ##### [here](http://www.kaggle.com/c/GEF2012-wind-forecasting/fo
 
     * ###### [Rank 6 solutionby Shea Parkes & Neil Schneider team.](https://www.kaggle.com/files/2676/DS06_nnet_Bagstack%20-%20Share.R)
 
-    * ###### [Rank 17 solution of Ensemble of RandomForests, GradientBoostingTrees and ExtraTreesRegressor y&nbsp;Emanuele Olivetti.](https://github.com/emanuele)
+    * ###### [Rank 17 solution of Ensemble of RandomForests, GradientBoostingTrees and ExtraTreesRegressor y Emanuele Olivetti.](https://github.com/emanuele)
 
 * ##### [Another solution code by Oblique Random Forest (oRF)by Shea Parkes & Neil Schneider team.](https://www.kaggle.com/c/bioresponse/forums/t/2045/the-code-of-my-best-submission/11709#post11709)
 
-* ##### [The code of my best submissionnbsp;thread. Talks about Multi-core training Oblique Random Forests, and Stacking.](https://www.kaggle.com/c/bioresponse/forums/t/2045/the-code-of-my-best-submission)
+* ##### [The code of my best submission thread. Talks about Multi-core training Oblique Random Forests, and Stacking.](https://www.kaggle.com/c/bioresponse/forums/t/2045/the-code-of-my-best-submission)
 
 * ##### [Question about the process of ensemble learningthread. Talks about applying ensembles in practice, and how can problems arise and how to deal with them.](http://www.kaggle.com/c/bioresponse/forums/t/1889/question-about-the-process-of-ensemble-learning/10950#post10950)
  
@@ -251,29 +251,29 @@ The%20Analytics Edge (15.071x) The Analytics Edge (15.071x)
 
     * ###### [Rank 1 solutionby Nick Kridler.](https://github.com/nmkridler/moby)
 
-    * ###### [Rank 7 solutionby Gilles Louppe and Peter Prettenhofer&nbsp;team.](https://github.com/glouppe/kaggle-marinexplore)
+    * ###### [Rank 7 solutionby Gilles Louppe and Peter Prettenhofer team.](https://github.com/glouppe/kaggle-marinexplore)
 
-    * ###### [Rank 8 solutionby&nbsp;Sander Dieleman.](https://github.com/benanne/kaggle-whales)
+    * ###### [Rank 8 solutionby Sander Dieleman.](https://github.com/benanne/kaggle-whales)
 
-    * ###### [Rank 56 solutionby&nbsp;Sudeep Juvekar.](https://github.com/sjuvekar/Kaggle-MarineExplorer)
+    * ###### [Rank 56 solutionby Sudeep Juvekar.](https://github.com/sjuvekar/Kaggle-MarineExplorer)
 
     * ###### [Solution discussion thread](https://www.kaggle.com/c/whale-detection-challenge/forums/t/4254/congratulations/22678)
 
 * ##### [Mean spectogram thread](http://www.kaggle.com/c/whale-detection-challenge/forums/t/3887/mean-spectrogram)
 
-* ##### [Official interviewnbsp;from the Marinexplorer and Cornell at Kaggle.](http://blog.kaggle.com/2013/05/06/summary-of-the-whale-detection-competition/)
+* ##### [Official interview from the Marinexplorer and Cornell at Kaggle.](http://blog.kaggle.com/2013/05/06/summary-of-the-whale-detection-competition/)
  
 * ##### [Walmart Recruiting – Store Sales Forecasting](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 
-    * ###### [Rank 1 solution codeand&nbsp;http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43915#post43915 descriptionby David Thaler.](https://bitbucket.org/dthal/kaggle_walmart)
+    * ###### [Rank 1 solution codeand http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43915#post43915 descriptionby David Thaler.](https://bitbucket.org/dthal/kaggle_walmart)
 
     * ###### [Rank 2 solution descriptionby sriok.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43811#post43811)
 
-    * ###### [Rank 3 solution codeand http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43821#post43821 descriptionnbsp;by James King.](http://ideone.com/pUw773)
+    * ###### [Rank 3 solution codeand http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43821#post43821 description by James King.](http://ideone.com/pUw773)
 
     * ###### [Rank 5 solution descriptionby ACS69.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43960#post43960)
 
-    * ###### [Rank 6 solution descriptionnbsp;by T. Henry.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43949#post43949)
+    * ###### [Rank 6 solution description by T. Henry.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43949#post43949)
 
     * ###### [Rank 8 solution descriptionby BreakfastPirate.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43848#post43848)
 
@@ -281,11 +281,11 @@ The%20Analytics Edge (15.071x) The Analytics Edge (15.071x)
 
     * ###### [Rank 10 solution descriptionby Gilberto Titericz Junior.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43854#post43854)
 
-    * ###### [Rank 11 solution descriptionby&nbsp;citynight.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/44090#post44090)
+    * ###### [Rank 11 solution descriptionby citynight.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/44090#post44090)
 
     * ###### [Rank 16 solution codeand http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43856#post43856 descriptionby yr.](https://github.com/ChenglongChen/Kaggle_Walmart-Recruiting-Store-Sales-Forecasting)
 
-    * ###### [Rank 29 solution codenbsp;and http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43831#post43831 descriptionby Mike Kim.](https://github.com/mikeskim/Walmart/blob/master/makeSubmission.R)
+    * ###### [Rank 29 solution code and http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/43831#post43831 descriptionby Mike Kim.](https://github.com/mikeskim/Walmart/blob/master/makeSubmission.R)
 
     * ###### [Rank 30 solution descriptionby dkay.](http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/forums/t/8023/thank-you-and-2-rank-model/44067#post44067)
 
